@@ -36,4 +36,4 @@ O sistema é composto pelas seguintes classes e interfaces:
 1. Certifique-se de ter o [Java JDK](https://www.oracle.com/java/technologies/downloads/) instalado em sua máquina.
 2. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU-USUARIO/nome-do-repositorio.git](https://github.com/SEU-USUARIO/nome-do-repositorio.git)
+   git clone https://github.com/duduaguiaarr-source/sistema-farmacia-poo.git
